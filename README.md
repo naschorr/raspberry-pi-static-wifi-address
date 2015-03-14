@@ -7,4 +7,5 @@ interfaces goes in /etc/network/, and wpa_supplicant.conf goes in /etc/wpa_suppl
 
 You'll also need to add in the settings for the network you're trying to connect to. It's also a good idea to back up your current settings before pasting these in.
 
-Obviously this isn't a magic bullet, but it works for my Model B even after the Raspberry Pi 2 update that broke some other things.
+Obviously this isn't a magic bullet, but it works for my Model B even after the Raspberry Pi 2 update that broke some other things. It's also worth noting that I'm using the Edimax EW-7811Un adapter, though it shouldn't really matter.
+
