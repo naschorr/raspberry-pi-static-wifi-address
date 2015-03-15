@@ -1,6 +1,6 @@
 # raspberry-pi-static-wifi-address
 
-Known working settings for having a wireless pi with a static address
+Known working settings for having a wireless pi with a static address running Raspbian 7 Wheezy.
 
 ---
 interfaces goes in /etc/network/, and wpa_supplicant.conf goes in /etc/wpa_supplicant/. Raspbian should already have the wpa_supplicant package installed, but you may need to apt-get it if it's not there.
